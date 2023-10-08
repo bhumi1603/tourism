@@ -1,9 +1,10 @@
 .bg-whole-Container
 {
-    background-image:url('/home/rgukt/Downloads/hill.jpg');
+    background-image:url('https://images.hdqwalls.com/wallpapers/nature-background.jpg');
 height:100vh;
-width:100vw;
+width:400px;
 background-size:cover;
+margin:auto;
 
 }
 .card-container
