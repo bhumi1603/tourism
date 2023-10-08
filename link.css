@@ -1,10 +1,10 @@
 .bg-whole-Container
 {
     background-image:url('https://images.hdqwalls.com/wallpapers/nature-background.jpg');
-height:100vh;
-width:400px;
-background-size:cover;
-margin:auto;
+	height:100vh;
+	width:300px;
+	background-size:cover;
+	margin:auto;
 
 }
 .card-container
@@ -21,8 +21,9 @@ margin:auto;
 {
     background-image:url('https://i.pinimg.com/originals/73/70/00/737000df4b8e04719d38b1b4537ebad2.jpg');
     background-size:cover;
-    height:120vh;
-    width:100wh;
+    height:100vh;
+    width:300px;
+    margin:auto;
     
 }
 .bg-head
@@ -61,10 +62,11 @@ margin:auto;
 }
 .bgm
 {
-    background-image:url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png);
+    background-image:url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png');
     background-size:cover;
     height:100vh;
-    width: 100vw;
+    width:300px;
+    margin:auto;
     
 }
 
